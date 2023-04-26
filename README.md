@@ -16,6 +16,16 @@ https://www.figma.com/file/H3nSZaQMSFyy6JOpKzTnw7/Final-Project?node-id=0%3A1&t=
 
 https://dbdiagram.io/d/64497ec56b319470514146ae
 
+## Algorithms
+
+### Macronutrient Ratio:
+
+60/20/20 Ratio for Carbohydrates/Proteins/Fats
+
+### Calories Burned Calculation:
+
+Calories/kcals = activity(METs) x weight(kilograms) x duration(hours)
+
 ### References:
 
 - Meal Nutrition API -> https://rapidapi.com/spoonacular/api/recipe-food-nutrition/
