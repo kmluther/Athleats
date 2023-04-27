@@ -1,42 +1,6 @@
 # Capstone Project - Athleats
 
 Component Tree
-$ tree -L 2
-$
-├── CONTRIBUTING.md
-├── LICENSE.md
-├── Pipfile
-├── Pipfile.lock
-├── README.md
-├── client
-│   ├── README.md
-│   ├── node_modules
-│   ├── package-lock.json
-│   ├── package.json
-│   ├── public
-│   └── src
-|       ├── assets
-|       ├── components
-|           ├── Home
-|           ├── SignUpForm
-|           ├── AthleteProfile
-|           ├── ActivityForm
-|           ├── ActivityPage
-|           ├── ActivityCard
-|           ├── MealCard
-|           ├── MealPage
-|           ├── Menu
-|           ├── Navigation
-|       ├── app.css
-|       ├── app.js
-|       ├── index.css
-|       ├── index.js
-└── server
-    ├── app.py
-    ├── config.py
-    ├── migrations
-    ├── models.py
-    └── seed.py
 
 ## User Stories
 
