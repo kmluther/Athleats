@@ -15,6 +15,7 @@ Component Tree
 ## Stretch User Stories
 
 - Athletes can upload activities using a GPX file.
+- GPX data is parsed to be used in calculations.
 
 ## Wireframe
 
