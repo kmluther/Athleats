@@ -1,7 +1,9 @@
 # Capstone Project - Athleats
 
 Component Tree
-
+$ tree -L 2
+$
+.
 ├── CONTRIBUTING.md
 ├── LICENSE.md
 ├── Pipfile
