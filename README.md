@@ -2,6 +2,8 @@
 
 Component Tree
 
+<img width="586" alt="Screen Shot 2023-04-27 at 9 01 22 AM" src="https://user-images.githubusercontent.com/118330042/234904145-7224a8fd-162d-42b8-a3fb-47ce044e4adf.png">
+
 ## User Stories
 
 - New athletes can create a profile. Existing athletes can login to their profile.
